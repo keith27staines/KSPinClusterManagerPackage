@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "KSGeometryPackage",
+        "repositoryURL": "https://github.com/keith27staines/KSGeometryPackage.git",
+        "state": {
+          "branch": null,
+          "revision": "4194dd8a8c9ef8d4a80a874674df1c47ff90c402",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
