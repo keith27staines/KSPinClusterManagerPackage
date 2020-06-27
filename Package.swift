@@ -24,6 +24,6 @@ let package = Package(
             dependencies: ["KSGeometryPackage"]),
         .testTarget(
             name: "KSPinClusterManagerPackageTests",
-            dependencies: ["KSPinClusterManagerPackage"]),
+            dependencies: ["KSPinClusterManagerPackage","KSGeometryPackage", "KSQuadTreePackage"]),
     ]
 )

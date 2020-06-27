@@ -9,6 +9,15 @@
           "revision": "4194dd8a8c9ef8d4a80a874674df1c47ff90c402",
           "version": "1.0.0"
         }
+      },
+      {
+        "package": "KSQuadTreePackage",
+        "repositoryURL": "https://github.com/keith27staines/KSQuadTreePackage.git",
+        "state": {
+          "branch": null,
+          "revision": "a28bfe8c25f7ce96e8331017b4f2dc6c507c5c6d",
+          "version": "1.0.0"
+        }
       }
     ]
   },
