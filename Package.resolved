@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/keith27staines/KSGeometryPackage.git",
         "state": {
           "branch": null,
-          "revision": "4194dd8a8c9ef8d4a80a874674df1c47ff90c402",
-          "version": "1.0.0"
+          "revision": "f3dfd75153cb92ba3f47c18c51f4c46ffe04244a",
+          "version": "1.1.0"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/keith27staines/KSQuadTreePackage.git",
         "state": {
           "branch": null,
-          "revision": "a28bfe8c25f7ce96e8331017b4f2dc6c507c5c6d",
-          "version": "1.0.0"
+          "revision": "adef7041ed153ebade8a3f30ac7951bd17afd620",
+          "version": "1.0.1"
         }
       }
     ]
